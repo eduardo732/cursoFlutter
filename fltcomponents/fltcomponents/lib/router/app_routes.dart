@@ -5,7 +5,6 @@ import 'package:fltcomponents/screens/screens.dart';
 class AppRoutes {
   static const initialRoute = 'home';
   static final menuOptions = <MenuOption>[
-    //TODO
     MenuOption(
         route: 'home',
         icon: Icons.home,
